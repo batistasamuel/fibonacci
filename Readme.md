@@ -1,4 +1,5 @@
 # Aprendendo a usar o GIT usando como exemplo o desafio Fibonacci
+# Adicionando o teste do git diff
 # Desafio Fibonacci
 
 Faça um método fibonacci que retorne um Array com os primeiro números de série de Fibonacci até passar de 350.
