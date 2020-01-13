@@ -1,0 +1,22 @@
+{
+  "name": "desafio_fibonacci",
+  "version": "1.0.0",
+  "description": "Desafio Fibonacci",
+  "main": "is_Fibonacci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batistasamuel/fibonacci.git"
+  },
+  "keywords": [
+    "fibonacci"
+  ],
+  "author": "Samuel Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batistasamuel/fibonacci/issues"
+  },
+  "homepage": "https://github.com/batistasamuel/fibonacci#readme"
+}
